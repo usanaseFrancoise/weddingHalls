@@ -3,6 +3,7 @@
 *{
     margin:0;
     padding:0;
+    font-family: lato;
      
   }
 
@@ -154,4 +155,24 @@ margin: 50px auto 0;
 .main .row img{
   margin-left: 25px;
   padding-right: 30px;
+}
+.main .row .gallerytext h4{
+  font-family: lato;
+  color: rgb(226, 127, 57);
+  font-weight: 100;
+}
+.main .row .gallerytext p{
+  font-family: lato;
+  color:rgb(226, 152, 100);
+  font-weight: 100;
+}
+.main .row .gallerytext a{
+  font-family: lato;
+  background-color:rgb(226, 152, 100);
+  font-weight: bold;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
 }
